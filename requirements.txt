@@ -1,0 +1,4 @@
+selenium
+pystyle
+requests
+cryptography
